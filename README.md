@@ -21,7 +21,7 @@ This is the frontend for a Food Order Application, built using modern web techno
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/food-order-frontend.git
+   git clone https://github.com/sashwathan/react-tailwind.git
    cd food-order-frontend
 
 ## Output
